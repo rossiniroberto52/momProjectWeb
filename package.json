@@ -1,0 +1,23 @@
+{
+  "name": "momprojectweb",
+  "version": "1.0.0",
+  "description": "projeto para a minha mãe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossiniroberto52/momProject.git"
+  },
+  "author": "rossini135",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rossiniroberto52/momProject/issues"
+  },
+  "homepage": "https://github.com/rossiniroberto52/momProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
